@@ -2,4 +2,6 @@ beli laptop gaming
 slebew
 asfnsafnalnf
 javascript
-ruby
+php
+python
+
