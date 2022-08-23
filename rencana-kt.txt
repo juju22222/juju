@@ -3,3 +3,5 @@ slebew
 asfnsafnalnf
 asfnjaf
 javascript
+php
+python
